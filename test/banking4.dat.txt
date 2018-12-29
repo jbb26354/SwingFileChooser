@@ -1,0 +1,16 @@
+5
+1 
+saving 
+one hundred
+2
+checking
+3100.67
+3
+timedeposit
+8000.00
+4
+saving
+800.25
+5
+checking
+90.50
